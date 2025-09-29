@@ -40,7 +40,6 @@ This dashboard surfaces averages across reviews for:
 
 ## How to use
 - Click the Tableau link above for the interactive view.  
-- If you have the Tableau workbook (`.twb`/`.twbx`), open it in **Tableau Desktop** or **Tableau Public** to modify or extend.  
-- Optionally include the exported **PDF** for quick sharing.
+- If you have the Tableau workbook (`.twb`/`.twbx`), open it in **Tableau Desktop** or **Tableau Public** 
 
 
