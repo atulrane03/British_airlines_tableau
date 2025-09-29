@@ -1,6 +1,6 @@
 # British Airways Reviews Dashboard (Tableau)
 
-!(Dashboard1.png)
+![](Dashboard1.png)
 
 Interactive Tableau dashboard exploring **British Airways** passenger review data—how satisfaction and key service dimensions vary over time, by region, and by aircraft type.
 
